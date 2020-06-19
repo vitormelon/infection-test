@@ -1,0 +1,5 @@
+/vendor/
+/coverage/
+.idea
+infection-log.txt
+Makefile
